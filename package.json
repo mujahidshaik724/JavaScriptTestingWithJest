@@ -1,0 +1,23 @@
+{
+  "name": "javascripttestingwithjest",
+  "version": "1.0.0",
+  "description": "I have started with the installing the jset package into my project\r I have learned how to export and import to our test files \r Tested the indivedual file \" npm test -- FILENAME \" and tested the all files at once using \" npm test \"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mujahidshaik724/JavaScriptTestingWithJest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mujahidshaik724/JavaScriptTestingWithJest/issues"
+  },
+  "homepage": "https://github.com/mujahidshaik724/JavaScriptTestingWithJest#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

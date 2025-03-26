@@ -1,0 +1,7 @@
+# Node dependencies
+node_modules/
+
+# Coverage reports
+coverage/
+
+.vscode/
